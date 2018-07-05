@@ -1,11 +1,11 @@
-#Tweeter by Eric
+# Tweeter by Eric
 Started on July 5th 2018
-#Design
+# Design
 Use draw.io to draw the desgin
-#Front End
+# Front End
 ReactJS
-#Back End
+# Back End
 AWS Lambda
-#Database
+# Database
 DynamoDB
 
