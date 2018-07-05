@@ -1,26 +1,8 @@
+/*
+    ./.babelrc
+*/
 {
-  "presets": [
-    ["env", {
-      "targets": {
-        "browsers": ["last 2 versions", "ie >= 10"]
-      }
-    }],
-    "react",
-    "stage-0"
-  ],
-  "env": {
-    "development": {
-      "presets": ["react-hmre"]
-    },
-    "production": {
-      "presets": ["react-optimize"]
-    },
-  },
-  "plugins": [
-    ["typecheck", {
-      "disable": {
-        "production": true
-      }
-    }]
-  ]
+    "presets":[
+        "es2015", "react"
+    ]
 }
