@@ -4,6 +4,7 @@ Started on July 5th 2018
 Use draw.io to draw the desgin
 # Front End
 ReactJS
+Built from React Redux Boilerplate: https://github.com/iroy2000/react-redux-boilerplate
 # Back End
 AWS Lambda
 # Database
